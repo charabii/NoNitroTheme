@@ -1,0 +1,142 @@
+/* Remove nitro and shop bullshit below friends button */
+div.scroller__89969.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0 ul li:nth-child(3) {
+    display: none;
+}
+
+div.scroller__89969.thin_b1c063.scrollerBase_f742b2.fade_ba0fa0 ul li:nth-child(4) {
+    display: none;
+}
+
+/* Remove nitro bullshit from settings */
+div.side_b4b3f6 div:nth-child(14) {
+    display: none;
+}
+
+div.side_b4b3f6 div:nth-child(15) {
+    display: none;
+}
+
+div.side_b4b3f6 div:nth-child(16) {
+    display: none;
+}
+
+div.side_b4b3f6 div:nth-child(17) {
+    display: none;
+}
+
+div.side_b4b3f6 div:nth-child(18) {
+    display: none;
+}
+
+div.side_b4b3f6 div:nth-child(19) {
+    display: none;
+}
+
+div.side_b4b3f6 div:nth-child(20) {
+    display: none;
+}
+
+/* Remove bullshit shop ads from profiles page */
+div.container__686c4 {
+    display: none;
+}
+
+/* Remove bullshit nitro avatar decorations */
+div.content__690c5 div:nth-child(2) div:nth-child(1) {
+    display: none;
+}
+
+div.content__690c5 div:nth-child(2) div:nth-child(2) {
+    display: none;
+}
+
+div.content__690c5 div:nth-child(2) div:nth-child(3) {
+    display: none;
+}
+
+div.content__690c5 div:nth-child(2) div:nth-child(4) {
+    display: none;
+}
+
+div.content__690c5 div:last-child {
+    top: 115px !important;
+}
+
+div.content__690c5 div:nth-child(1) div:nth-child(4) {
+    top: 24px !important;
+}
+
+/* Remove bullshit nitro exclusive animated pfps and limit window width to 220px */
+div.imagePickerContainer__26f55 div.optionBox_d9023e:nth-child(2) {
+    display: none;
+}
+
+div.root_a28985.small_f8e677.fullscreenOnMobile__05784.rootWithShadow_d20cd6 {
+    max-width: 220px;
+}
+
+/* Remove profile effects cause it was broken cause of another change and ion wanna fix it also fuck EVERYBODY who uses this shit i cant stand it */
+div.sectionsContainer__45b62 div.customizationSection__0f57e:nth-child(5) {
+    display: none;
+}
+
+/* HOLY SHIT DISCORD FIGURED OUT HOW TO USE CLASSES PROPERLY (remove bullshit try out nitro section btw) */
+div.premiumFeatureBorder__6ac04.featureBorder__404e3.tryItOutSection_d658ca {
+    display: none;
+}
+
+/* Remove more nitro bullshit on appearence tab (use fakenitro) */
+div.themeTitle_ab0542 button.button__581d0.lookFilled__950dd.colorBrand__27d57.sizeSmall_da7d10.grow__4c8a4 {
+    display: none;
+}
+
+div.title_de34af div:nth-child(2) {
+    display: none;
+}
+
+div.headings__5608a h3.defaultColor__30336.text-sm-normal__95a78.defaultColor__8610e {
+    visibility: hidden;
+}
+div.headings__5608a h3.defaultColor__30336.text-sm-normal__95a78.defaultColor__8610e:before {
+    content:'Make Discord yours.';
+    visibility: visible;
+}
+
+div.title_bf107a div:nth-child(2) {
+    display: none;
+}
+
+div.headings__34ee9 h3.defaultColor__30336.text-sm-normal__95a78.defaultColor__8610e {
+    visibility: hidden;
+}
+div.headings__34ee9 h3.defaultColor__30336.text-sm-normal__95a78.defaultColor__8610e:before {
+    content:'Change the Discord in-app icon.';
+    visibility: visible;
+}
+
+button.button__581d0.lookFilled__950dd.colorBrand__27d57.sizeMedium__60c12.grow__4c8a4 {
+    display: none;
+}
+
+/* might as well cause who tf clicks on this shit anyway lmaoooo (remove hypesquad) */
+div.side_b4b3f6 div:nth-child(45) {
+    display: none;
+}
+
+
+/* getting rid of some other nitro bullshit ion remember man im tired */
+button.shinyButton_d5e126.button__581d0.lookFilled__950dd.colorGreen__75c93.sizeSmall_da7d10.fullWidth_fdb23d.grow__4c8a4.ctaButton__2bd82 {
+    display: none;
+}
+
+div.flex_f18b02.vertical__4ad59.justifyCenter__96cdc.alignStretch__2d62d.noWrap__5c413.truncatingText__44a35 div.defaultColor__30336.text-sm-normal__95a78:nth-child(2) {
+    visibility: hidden;
+}
+div.flex_f18b02.vertical__4ad59.justifyCenter__96cdc.alignStretch__2d62d.noWrap__5c413.truncatingText__44a35 div.defaultColor__30336.text-sm-normal__95a78:nth-child(2):before {
+    content:'This emoji is from one of your servers. This is a FakeNitro emoji and renders like a real emoji only for you. Appears as a link to non-plugin users.';
+    visibility: visible;
+}
+
+div.emojiSection_ab054b {
+    max-height: 115px;
+}
