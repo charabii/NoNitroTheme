@@ -1,1 +1,1 @@
-Paste https://raw.githubusercontent.com/charabii/NoNitroTheme/main/nonitro.css in online themes on vencord, I dunno how to do it on other discord client mods. Make a new style and paste everything from nonitro.css in it and save it to use with stylus.
+Paste https://raw.githubusercontent.com/charabii/NoNitroTheme/main/nonitro.css in online themes on vencord, I dunno how to do it on other discord client mods go figure it out yourself. Make a new style and paste everything from nonitro.css in it and save it to use with stylus.
